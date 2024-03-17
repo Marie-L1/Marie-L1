@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Harvard's CS50 Programming with Python and JavaScript**
 
-- 🌱 I’m currently learning **Django and React Frameworks**
+- 🌱 I’m currently learning **Frameworks Django and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marie-L1](https://github.com/Marie-L1)
 
