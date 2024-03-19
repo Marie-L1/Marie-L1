@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A aspiring Web Developer from Canada</h3>
 
 - 🔭 I’m currently working on **Harvard's CS50 Programming with Python and JavaScript**
 
