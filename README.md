@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">An Inspring Full-stack Web Developer from Canada</h3>
 
-- 🔭 I’m currently working on **Harvard's CS50 Programming with Python and JavaScript**
+- 🔭 I’m currently working on **BrainStation Software Engineering Bootcamp**
 
-- 🌱 I’m currently learning **Frameworks Django and React**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marie-L1](https://github.com/Marie-L1)
 
