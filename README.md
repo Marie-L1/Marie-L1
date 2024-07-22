@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">An Aspiring Full-stack Web Developer from Canada</h3>
 
-- 🔭 I’m currently working on **BrainStation Software Engineering Bootcamp**
+- 🔭 I’m currently working on **BrainStation's Software Engineering Bootcamp**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
