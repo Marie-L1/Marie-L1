@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BrainStation's Software Engineering Bootcamp**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **DevOps and Deployment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marie-L1](https://github.com/Marie-L1)
 
