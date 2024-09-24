@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
 
-- 🎉 I just finished **BrainStation's Software Engineering Bootcamp** 
+- 🎉 I just finished the **BrainStation's Software Engineering Bootcamp** 
 
 - 🌱 I’m currently learning **TypeScript and Tailwind**
 
