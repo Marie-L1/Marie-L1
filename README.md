@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">An Aspiring Full-stack Web Developer from Canada</h3>
+<h3 align="center">An Aspiring Software Engineer from Canada</h3>
 
 - 🔭 I’m currently working on **BrainStation's Software Engineering Bootcamp**
 
-- 🌱 I’m currently learning **DevOps and Deployment**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marie-L1](https://github.com/Marie-L1)
 
