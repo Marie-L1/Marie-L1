@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Marie-L1](https://github.com/Marie-L1) (Portfolio coming soon!)
+- 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
