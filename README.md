@@ -3,7 +3,7 @@
 
 - 🎉 I just finished the **BrainStation's Software Engineering Bootcamp** 
 
-- 🌱 I’m currently learning **TypeScript and Tailwind**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
 
