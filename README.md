@@ -1,3 +1,4 @@
+<div  align="center">
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
 
@@ -7,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
 
-<div align="center">![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)</div>
+![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marie-l1&show_icons=true&locale=en&layout=compact" alt="marie-l1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marie-l1&" alt="marie-l1" /></p>
+
+</div>
