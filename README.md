@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
 
-![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)
+<div align="center">![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)</div>
 
 
 <h3 align="left">Connect with me:</h3>
