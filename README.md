@@ -1,4 +1,4 @@
-<div  align="center">
+
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
 
@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marie-l1&" alt="marie-l1" /></p>
 
-</div>
