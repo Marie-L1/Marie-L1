@@ -5,6 +5,8 @@
 - 🎉 I just finished the **BrainStation's Software Engineering Bootcamp** 
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
+  
+- 🚀 I'm currently building a web application with TypeScript and Next.js called **Campscape**! 
 
 - 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
 
