@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
 
-- 🎉 I recently completed the **BrainStation's Software Engineering Bootcamp** 
+ 🎉 I recently completed the **BrainStation's Software Engineering Bootcamp** 
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+ 🌱 I’m currently learning **TypeScript and Next.js**
   
-- 🚀 I'm currently building a web application with TypeScript and Next.js called **Campscape**! 
+ 🚀 I'm currently building a web application with TypeScript and Next.js called **Campscape**! 
 
-- 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
+ 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
 
 ![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)
 
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-lukowich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria lukowich" height="30" width="40" /></a>
@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marie-l1&" alt="marie-l1" /></p>
 
-</div>
