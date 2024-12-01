@@ -4,7 +4,7 @@
 
  🎉 I recently completed the **BrainStation's Software Engineering Bootcamp** 
 
- 🌱 I’m currently learning **Unit Testing and NestJS**!
+ 🌱 I’m currently learning **Unit Testing and NextJS**!
   
  🚀 I'm currently building a web application with TypeScript and Next.js called **Campscape**! 
  Live Here:  https://campscape1.vercel.app/
