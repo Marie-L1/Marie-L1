@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A Software Engineer from Canada</h3>
+<h3 align="center">A Frontend Web Developer from Canada</h3>
 
  🎉 I recently completed the **BrainStation's Software Engineering Bootcamp** 
 
