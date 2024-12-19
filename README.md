@@ -6,10 +6,10 @@
 
  🌱 I’m currently learning **Unit Testing and NextJS**!
   
- 🚀 I'm currently building a web application with TypeScript and Next.js called **Campscape** and a new **Portfolio**! 
+ 🚀 I'm currently building a web application with TypeScript and Next.js called **Campscape**! 
  Live Here:  https://campscape1.vercel.app/
 
- 👨‍💻 All of my projects are available at https://maria-lukowich.vercel.app/
+ 👨‍💻 All of my projects are available at https://marialukowich.vercel.app/
 
 ![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)
 
