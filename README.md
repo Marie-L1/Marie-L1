@@ -4,7 +4,7 @@
 
  🎉 I recently completed the **BrainStation's Software Engineering Bootcamp** 🎉
 
- 🚀  I’m currently a **Software Developer in the makeitMVP Launch Program!** 🚀 
+ 🚀  I’m recently completed my internship as a **Software Developer in the makeitMVP Launch Program!** 🚀 
 
 ![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)
 
