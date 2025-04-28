@@ -6,6 +6,8 @@
 
  🚀  I’m recently completed my internship as a **Software Developer in the makeitMVP Launch Program!** 🚀 
 
+ 💻 I'm currently working on a **Fiverr Clone** as my next personal project! 💻
+
 ![giphy](https://github.com/user-attachments/assets/a0782d2b-fff0-4a05-b25e-f304a25bc143)
 
 </div>
