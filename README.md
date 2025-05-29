@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A Software Developer from Canada</h3>
 
- 🎉 I recently completed the **BrainStation's Software Engineering Bootcamp** 🎉
+ 🎉 I completed the **BrainStation's Software Engineering Bootcamp** 🎉
 
  🚀  I’m recently completed my internship as a **Software Developer in the makeitMVP Launch Program!** 🚀 
 
